@@ -1,0 +1,14 @@
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.AssemblyInfoInputs.cache
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.AssemblyInfo.cs
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.csproj.CoreCompileInputs.cache
+D:\c#\c# oyrenmek\bin\Debug\net9.0\c# oyrenmek.exe
+D:\c#\c# oyrenmek\bin\Debug\net9.0\c# oyrenmek.deps.json
+D:\c#\c# oyrenmek\bin\Debug\net9.0\c# oyrenmek.runtimeconfig.json
+D:\c#\c# oyrenmek\bin\Debug\net9.0\c# oyrenmek.dll
+D:\c#\c# oyrenmek\bin\Debug\net9.0\c# oyrenmek.pdb
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.dll
+D:\c#\c# oyrenmek\obj\Debug\net9.0\refint\c# oyrenmek.dll
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.pdb
+D:\c#\c# oyrenmek\obj\Debug\net9.0\c# oyrenmek.genruntimeconfig.cache
+D:\c#\c# oyrenmek\obj\Debug\net9.0\ref\c# oyrenmek.dll
